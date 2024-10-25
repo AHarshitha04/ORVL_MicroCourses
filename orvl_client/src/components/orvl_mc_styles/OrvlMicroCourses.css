@@ -1,0 +1,17 @@
+.orvlMcHeader {
+    width: 100%;
+    height: 70px;
+}
+.orvlsubMcHeader {
+    width: 90%;
+    margin: 0 auto;
+   
+}
+.HeaderLogoImg {
+    width: 255px;
+    height: 56px;
+}
+.HeaderLogoImg img{
+    width:100%;
+    height:100%;
+}
